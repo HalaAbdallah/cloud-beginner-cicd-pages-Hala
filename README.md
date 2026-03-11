@@ -7,4 +7,5 @@ This project demonstrates a simple CI/CD pipeline using GitHub Actions and GitHu
 
 The website will be deployed automatically when code is pushed to the main branch.
 
-##Github Link...
+##Github Link::
+https://halaabdallah.github.io/cloud-beginner-cicd-pages-Hala/
